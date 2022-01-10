@@ -1,0 +1,6 @@
+amino.fix==2.1.8
+pyfiglet
+progress
+requests
+colored
+colorama
